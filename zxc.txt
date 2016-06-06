@@ -1,2 +1,3 @@
 file added in feature2
 line added in master
+new line added for 12.54 machine ssh 
