@@ -1,1 +1,2 @@
 file added in feature2
+line added in master
